@@ -108,4 +108,10 @@ export interface SimplePokemon {
   name: string;
   types: string[];
   imageUrl: string;
+  stats?: {
+    hp: number;
+    attack: number;
+    defense: number;
+    speed: number;
+  };
 }

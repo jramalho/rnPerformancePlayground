@@ -1,0 +1,5 @@
+ignoredBuiltDependencies:
+  - '@shopify/react-native-skia'
+
+onlyBuiltDependencies:
+  - '@shopify/react-native-skia'
