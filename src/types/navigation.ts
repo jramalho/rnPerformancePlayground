@@ -4,6 +4,8 @@
 };
 
 export type FlatListStackParamList = {
-  Before: undefined;
-  After: undefined;
+  Menu: undefined;
+  Bad: undefined;
+  Good: undefined;
+  FlashList: undefined;
 };

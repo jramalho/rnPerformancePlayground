@@ -101,3 +101,11 @@ export interface Name {
   name: string;
   language: NamedAPIResource;
 }
+
+// Simplified Pokemon type for the card display
+export interface SimplePokemon {
+  id: number;
+  name: string;
+  types: string[];
+  imageUrl: string;
+}
